@@ -18,17 +18,15 @@ USB Camera
    Both weights have already been compiled and quantized.
  
 2. Run 
-   ##
+##
    $ git clone https://github.com/Kao1126/EdgeTPU-FaceNet.git
    $ cd EdgeTPU-FaceNet
    $ python3 demo.py
-   ##
+   
 
 ## Valitading on FLW
-  ##
+##
   $ mkdir lfw
-  ##
-  Download LFW datasets and put in lfw
-  ##
+Download LFW datasets and put in lfw
+##
   $ python3 validate_lfw.py
-  ##
