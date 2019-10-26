@@ -5,18 +5,21 @@ You can use 'q' to quit and 'w' to add new class.
 
 ## Requirement 
 tensorflow - 1.15.0
+
 Ubuntu - 16.04
+
 Edge TPU compilier - 2.0.267
+
 USB Camera
 
 ## Usage
 
 #### 1. Download SSD and FaceNet weight
 
-Download [ssd weight](https://drive.google.com/open?id=198woIHpHlhePd0F3ADIXnt5G2bDkEuig)
-   and put in weight/SSD/
+(1). Download [ssd weight](https://drive.google.com/open?id=198woIHpHlhePd0F3ADIXnt5G2bDkEuig)
+   and put in weight/SSD
    
-Download [facenet weight](https://drive.google.com/open?id=1LZF3Z2Z6mM_gHueMfTKOtxjiiaeLgexV)
+(2). Download [facenet weight](https://drive.google.com/open?id=1LZF3Z2Z6mM_gHueMfTKOtxjiiaeLgexV)
    and put in weight/FacaNet
    
 Both weights have already been compiled and quantized.
