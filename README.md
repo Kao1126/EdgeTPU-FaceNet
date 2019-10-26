@@ -16,7 +16,7 @@ USB Camera
 
 about 25 FPS
 
-[![Demo Vidio]](https://youtu.be/I9F_GT_quFs)
+**(https://youtu.be/I9F_GT_quFs)**
 
 
 
