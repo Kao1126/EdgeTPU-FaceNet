@@ -11,7 +11,7 @@ USB Camera
 
 ## Usage
 
-### 1. Download SSD and FaceNet weight
+#### 1. Download SSD and FaceNet weight
 
 Download ssd weight from https://drive.google.com/open?id=198woIHpHlhePd0F3ADIXnt5G2bDkEuig
    and put in weight/SSD/
@@ -21,13 +21,12 @@ Download facenet weight from https://drive.google.com/open?id=1LZF3Z2Z6mM_gHueMf
    
 Both weights have already been compiled and quantized.
  
-### 2. Run 
+#### 2. Run demo.py
 ##
     $ git clone https://github.com/Kao1126/EdgeTPU-FaceNet.git
     $ cd EdgeTPU-FaceNet
     $ python3 demo.py
    
-
 ## Valitading on FLW
 Create lfw folder
 ##
@@ -35,3 +34,14 @@ Create lfw folder
 Download LFW datasets and put in lfw
 ##
     $ python3 validate_lfw.py
+
+## Reference
+1. coral:
+  https://coral.withgoogle.com/docs/edgetpu/models-intro/
+
+2. tensorflow:
+   https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/quantize
+   
+3. face net:
+   https://github.com/LeslieZhoa/tensorflow-facenet
+   
