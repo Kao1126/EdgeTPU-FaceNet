@@ -11,7 +11,7 @@ USB Camera
 
 ## Usage
 
-###1. Download SSD and FaceNet weight
+### 1. Download SSD and FaceNet weight
 
 Download ssd weight from https://drive.google.com/open?id=198woIHpHlhePd0F3ADIXnt5G2bDkEuig
    and put in weight/SSD/
@@ -21,7 +21,7 @@ Download facenet weight from https://drive.google.com/open?id=1LZF3Z2Z6mM_gHueMf
    
 Both weights have already been compiled and quantized.
  
-###2. Run 
+### 2. Run 
 ##
     $ git clone https://github.com/Kao1126/EdgeTPU-FaceNet.git
     $ cd EdgeTPU-FaceNet
