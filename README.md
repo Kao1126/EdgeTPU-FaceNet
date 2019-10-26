@@ -1,9 +1,9 @@
 # EdgeTPU-FaceNet
-Implement SSD and FaceNet on Edge TPU Accelerator.
+**Implement SSD and FaceNet on Edge TPU Accelerator.**
 
+**Class can be increased immediately. **
 
-
-You can use 'q' to quit and 'w' to add new class.
+**You can use 'q' to quit and 'w' to add new class.**
 
 ## Requirement 
 tensorflow - 1.15.0
