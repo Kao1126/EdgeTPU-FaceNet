@@ -13,10 +13,10 @@ USB Camera
 
 #### 1. Download SSD and FaceNet weight
 
-Download ssd weight from https://drive.google.com/open?id=198woIHpHlhePd0F3ADIXnt5G2bDkEuig
+Download [ssd weight](https://drive.google.com/open?id=198woIHpHlhePd0F3ADIXnt5G2bDkEuig)
    and put in weight/SSD/
    
-Download facenet weight from https://drive.google.com/open?id=1LZF3Z2Z6mM_gHueMfTKOtxjiiaeLgexV
+Download [facenet weight](https://drive.google.com/open?id=1LZF3Z2Z6mM_gHueMfTKOtxjiiaeLgexV)
    and put in weight/FacaNet
    
 Both weights have already been compiled and quantized.
