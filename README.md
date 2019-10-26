@@ -12,6 +12,14 @@ Edge TPU compilier - 2.0.267
 
 USB Camera
 
+## Demo
+
+about 25 FPS
+
+https://youtu.be/I9F_GT_quFs
+
+
+
 ## Usage
 
 #### 1. Download SSD and FaceNet weight
