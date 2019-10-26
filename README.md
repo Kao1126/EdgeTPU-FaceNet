@@ -1,5 +1,6 @@
 # EdgeTPU-FaceNet
-Implement SSD and FaceNet on Edge TPU Accelerator
+Implement SSD and FaceNet on Edge TPU Accelerator.
+
 You can use 'q' to quit and 'w' to add new class.
 
 ## Requirement 
@@ -11,22 +12,25 @@ USB Camera
 ## Usage
 
 1. Download SSD and FaceNet weight
-  (1). download ssd weight from https://drive.google.com/open?id=198woIHpHlhePd0F3ADIXnt5G2bDkEuig
+
+  (1). Download ssd weight from https://drive.google.com/open?id=198woIHpHlhePd0F3ADIXnt5G2bDkEuig
    and put in weight/SSD/
-  (2). download facenet weight from https://drive.google.com/open?id=1LZF3Z2Z6mM_gHueMfTKOtxjiiaeLgexV
+   
+  (2). Download facenet weight from https://drive.google.com/open?id=1LZF3Z2Z6mM_gHueMfTKOtxjiiaeLgexV
    and put in weight/FacaNet
+   
    Both weights have already been compiled and quantized.
  
 2. Run 
 ##
-   $ git clone https://github.com/Kao1126/EdgeTPU-FaceNet.git
-   $ cd EdgeTPU-FaceNet
-   $ python3 demo.py
+    $ git clone https://github.com/Kao1126/EdgeTPU-FaceNet.git
+    $ cd EdgeTPU-FaceNet
+    $ python3 demo.py
    
 
 ## Valitading on FLW
 ##
-  $ mkdir lfw
+    $ mkdir lfw
 Download LFW datasets and put in lfw
 ##
-  $ python3 validate_lfw.py
+    $ python3 validate_lfw.py
