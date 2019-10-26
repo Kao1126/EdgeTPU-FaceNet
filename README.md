@@ -1,6 +1,8 @@
 # EdgeTPU-FaceNet
 Implement SSD and FaceNet on Edge TPU Accelerator.
 
+
+
 You can use 'q' to quit and 'w' to add new class.
 
 ## Requirement 
@@ -47,12 +49,12 @@ Both weights have already been compiled and quantized.
     $ python3 validate_lfw.py
 
 ## Reference
-1. coral:
+ - coral:
   https://coral.withgoogle.com/docs/edgetpu/models-intro/
 
-2. tensorflow:
+ - tensorflow:
    https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/quantize
    
-3. face net:
+ - face net:
    https://github.com/LeslieZhoa/tensorflow-facenet
    
