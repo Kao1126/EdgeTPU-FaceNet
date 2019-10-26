@@ -1,7 +1,7 @@
 # EdgeTPU-FaceNet
 **Implement SSD and FaceNet on Edge TPU Accelerator.**
 
-**Class can be increased immediately. **
+**Class can be increased immediately.**
 
 **You can use 'q' to quit and 'w' to add new class.**
 
