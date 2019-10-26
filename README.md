@@ -18,8 +18,7 @@ USB Camera
 
 **https://youtu.be/I9F_GT_quFs**
 
-(https://github.com/Kao1126/EdgeTPU-FaceNet/blob/master/sample.JPG)
-
+![image](https://github.com/Kao1126/EdgeTPU-FaceNet/blob/master/sample.JPG)
 
 ## Usage
 
